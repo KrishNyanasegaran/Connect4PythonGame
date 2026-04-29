@@ -1,0 +1,3 @@
+Player 1 (Red): 1
+Player 2 (Yellow): 0
+AI (Yellow): 0
